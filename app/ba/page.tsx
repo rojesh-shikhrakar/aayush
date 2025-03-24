@@ -17,7 +17,7 @@ export default function BiliaryAtresia() {
             intestine, so it builds up in the liver and damages it.
           </p>
           <Image
-            src="/BA/Biliary-Atresia.jpg"
+            src="BA/Biliary-Atresia.jpg"
             alt="Biliary Atresia Diagram"
             width={400}
             height={300}
@@ -35,7 +35,7 @@ export default function BiliaryAtresia() {
             <li>Poor weight gain and growth</li>
           </ul>
           <Image
-            src="/BA/StoolChart.jpg"
+            src="BA/StoolChart.jpg"
             alt="Biliary Atresia screening stool color card"
             width={400}
             height={300}

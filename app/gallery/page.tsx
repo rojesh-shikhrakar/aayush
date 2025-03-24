@@ -7,11 +7,11 @@ const Gallery = () => {
     { src: 'Photos/BigFoot.jpg', alt: 'Small Body but big foot' },
     { src: 'Photos/HappyMother.jpg', alt: 'Like Momy Like Baby' },
     { src: 'Photos/Sunbathing.jpg', alt: 'Daily Sun Bathing & Massage' },
-    { src: 'Photos/DarkComplexion.jpg', alt: "Little Big Eyes that don&apos;t want to sleep"},
+    { src: 'Photos/DarkComplexion.jpg', alt: "Little Big Eyes and No sleep"},
     { src: 'Photos/Hospitalization.jpg', alt: 'Hospitalization & Diagnosis of BA' },
     { src: 'Photos/FakeCries.jpg', alt: 'Cries to Make you Smile' },
     { src: 'Photos/Cuty.jpg', alt: 'Puffed Face to delight you' },
-    { src: 'Photos/Rockstar.jpg', alt: "I&apos;m a Rockstar Baby" },
+    { src: 'Photos/Rockstar.jpg', alt: "a Rockstar Baby" },
 
   ];
 

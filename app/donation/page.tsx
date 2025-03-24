@@ -31,7 +31,7 @@ export default function Donation() {
           Please mention in the remark for Liver Transplant Expenses.
 
           <Image
-              src="/AayushNabilQR.png"
+              src="AayushNabilQR.png"
               alt="QR Code for Donation"
               width={250}
               height={250}
@@ -62,7 +62,7 @@ export default function Donation() {
           Please mention in the remark for Liver Transplant Expenses.
 
           <Image
-              src="/RojeshNabilQR.jpg"
+              src="RojeshNabilQR.jpg"
               alt="QR Code for Donation"
               width={250}
               height={250}
