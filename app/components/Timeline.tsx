@@ -11,7 +11,7 @@ const Timeline: FC<TimelineProps> = ({ images }) => {
       <div className="flex justify-around items-center overflow-x-scroll scrollbar-hide w-full">
         {images.map((image, index) => (
           <div key={index} className="relative flex flex-col items-center z-4">
-            <div className="relative w-80 h-96 rounded-b-lg"> {/* Added relative positioning */}
+            <div className="relative w-120 h-150 rounded-b-lg"> {/* Added relative positioning */}
               <Image
                 className="object-cover"
                 src={image.src}

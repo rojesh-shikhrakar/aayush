@@ -9,9 +9,6 @@ export default function Header() {
         </Link>
         <ul className="flex space-x-4">
           <li>
-            <Link href="/donation">Donation</Link>
-          </li>
-          <li>
             <Link href="/gallery">Gallery</Link>
           </li>
           <li>
