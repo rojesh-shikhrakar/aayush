@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aayush's Liver Transplant",
-  description: "Please Donate for Aayush's Liver Transplant",
+  title: "Aayush Liver Transplant",
+  description: "Please Donate to save a life",
 };
 
 export default function RootLayout({

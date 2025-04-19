@@ -17,7 +17,7 @@ export default function Home() {
     <div className="w-1/2 p-4">
       <h1 className="text-4xl font-bold mb-4">Hi, I'm Aayush !!!</h1>
       <p className="text-gray-700">
-        When I was three months old, I was diagnosed with a rare liver disease called <a href="/BA">Biliary Atresia (BA)</a>, that affects 1 in 20,000 babies. The only treatment liver transplant. Unfortunately, a liver transplant for infants is not yet feasible in Nepal. So, I'm getting my treatment (i.e transplant) in India in next couple of months.
+        When I was three months old, I was diagnosed with a rare liver disease called <a href="/BA">Biliary Atresia (BA)</a>, that affects 1 in 20,000 babies. The only treatment liver transplant. Unfortunately, a liver transplant for infants is not yet feasible in Nepal. So, I am getting my treatment (i.e transplant) in India in next couple of months.
         <br /> <br />        
         However, My parents need your support. They are spending a lot of money for my treatment. And they need your help. Your donation will help me get a new liver and a new life. Thank you for your support!
       </p>
