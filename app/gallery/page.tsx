@@ -12,7 +12,6 @@ const Gallery = () => {
     { src: 'Photos/Cuty.jpg', alt: 'Puffed Face to delight you' },
     { src: 'Photos/Rockstar.jpg', alt: "a Rockstar Baby" },
     { src: 'Photos/Transfusion.jpg', alt: "Treating Thalesemia" },
-    { src: 'Photos/HavingFun.gif', alt: "a trip to Red Fort" },
   ];
 
   return (
