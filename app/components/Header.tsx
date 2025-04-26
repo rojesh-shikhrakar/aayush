@@ -11,9 +11,6 @@ export default function Header() {
           <li>
             <Link href="/gallery">Gallery</Link>
           </li>
-          <li>
-            <Link href="/ba">BA</Link>
-          </li>
         </ul>
       </nav>
     </header>
